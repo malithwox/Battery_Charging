@@ -5,8 +5,5 @@ When a certain current load profile id over time is applied to the battery find 
 hw2
 Calculate OCV voltage & peak-power of a battery when OCV parameters are given according to the Combined model.
 
-ex3
-OCV-SOC plot according to the Combined+3 model.
-
 hw3
 When a certain current load profile id over time is applied to the battery find the voltage v across the battery terminals under the following model assumptions. ( Ideal battery,R-int model,RC model,2RC model). (OCV of the battery is not remined constant while the battery is being discharged.)
