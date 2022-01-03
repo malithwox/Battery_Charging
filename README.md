@@ -17,3 +17,6 @@ Measured voltage and current data. Voltage and current during charge and dischar
 prj4
 The true SOC at time k can be recursively computed using the Coulomb counting equation:
 A least square approach is used to estimate the simplest ECM parameters of a battery.
+
+pj5
+a systematic approach to decide between the parameters of combined 3+ model and linear model OCV
